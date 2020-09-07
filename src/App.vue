@@ -1,6 +1,7 @@
 <template>
   <div id="app">
    Hello Vue
+   需求B又来了
     
   </div>
 </template>
